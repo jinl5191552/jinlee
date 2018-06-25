@@ -1,7 +1,11 @@
+
 title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
+
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
 
