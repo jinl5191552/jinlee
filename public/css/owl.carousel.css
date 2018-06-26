@@ -71,7 +71,7 @@ transform: rotate(0);
 
 }
 
-{-webkit-backface-visibility: hidden;
+-webkit-backface-visibility: hidden;
 	-moz-backface-visibility:    hidden;
 	-ms-backface-visibility:     hidden;
 	backface-visibility: hidden;
@@ -79,4 +79,5 @@ transform: rotate(0);
   -moz-transform: rotate(0);
 transform: rotate(0);
 
-}
+
+-webkit-transform: translateZ(0);
