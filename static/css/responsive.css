@@ -19,6 +19,9 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	wrapper Start 
 --*/
+img {
+    max-width: 100%;
+}
   #wrapper {
     text-align: center;
   }
@@ -175,6 +178,9 @@ px      68    160    252    */
     margin-top: 20px;
     margin-bottom: 20px;
   }
+  img {
+    max-width: 100%;
+}
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;
@@ -399,14 +405,3 @@ px      68    160    252    344    436    */
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
 
-@-webkit-keyframes slidy /* Safari and Chrome */
-{
-    20% { left: 0%; }
-    25% { left: -100%; }
-    45% { left: -100%; }
-    50% { left: -200%; }
-    70% { left: -200%; }
-    75% { left: -300%; }
-    95% { left: -300%; }
-    100% { left: -400%; }
-}
