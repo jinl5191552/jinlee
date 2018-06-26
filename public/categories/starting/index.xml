@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starting on Airspace for Hugo</title>
+    <title>Starting on 스토리북 영어학원</title>
     <link>/categories/starting/</link>
-    <description>Recent content in Starting on Airspace for Hugo</description>
+    <description>Recent content in Starting on 스토리북 영어학원</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
     <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="/categories/starting/index.xml" rel="self" type="application/rss+xml" />

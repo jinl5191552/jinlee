@@ -1,7 +1,7 @@
 
-title = "Airspace for Hugo"
-baseURL = "/"
-languageCode = "en-us"
+title = "스토리북 영어학원"
+baseURL = "http://storybookeng.me/"
+languageCode = "ko-kr"
 theme = "airspace-hugo"
 
 
@@ -60,7 +60,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
+    title = "스토리북 영어학원"
     subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
   [params.wrapper]
