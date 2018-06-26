@@ -1,6 +1,6 @@
 
 title = "스토리북 영어학원"
-baseURL = "http://storybookeng.me/"
+baseURL = "/"
 languageCode = "ko-kr"
 theme = "airspace-hugo"
 
