@@ -66,8 +66,8 @@
 	-ms-backface-visibility:     hidden;
   -webkit-transform: rotate(0);
   -moz-transform: rotate(0);
--ms-transform: rotate(0);
-  
+transform: rotate(0);
+
 }
 .carousel-image {
    position: absolute;
